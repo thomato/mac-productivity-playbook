@@ -1,3 +1,5 @@
 # Username you use on your machine
 username: johnappleseed
 
+# App Store e-mail
+mas_email: "john@appleseed.com"

@@ -7,6 +7,12 @@
     - vars/main.yml
     - vars/local.yml
 
+  vars_prompt:
+    - name: password
+      prompt: What is your App Store password?
+
   roles:
     - geerlingguy.mac.homebrew	
+    - geerlingguy.mac.mas
+    - geerlingguy.mac.dock
 
