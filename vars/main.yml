@@ -14,4 +14,5 @@ homebrew_cask_apps:
 
 mas_installed_apps:
   - { id: 904280696, name: "Things 3" }
+  - { id: 1333542190, name: "1Password 7 - Password Manager" }
 
