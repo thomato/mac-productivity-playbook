@@ -12,6 +12,7 @@ homebrew_cask_apps:
   - firefox-developer-edition
   - intellij-idea
   - anki
+  - setapp
 
 mas_installed_apps:
   - { id: 904280696, name: "Things 3" }
