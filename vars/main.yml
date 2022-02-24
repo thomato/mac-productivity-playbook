@@ -13,6 +13,7 @@ homebrew_cask_apps:
   - intellij-idea
   - anki
   - setapp
+  - whatsapp
 
 mas_installed_apps:
   - { id: 904280696, name: "Things 3" }
