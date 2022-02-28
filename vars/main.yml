@@ -6,6 +6,7 @@ homebrew_taps:
   - homebrew/core
   - homebrew/cask
   - homebrew/cask-versions
+  - homebrew/cask-drivers
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
@@ -15,6 +16,7 @@ homebrew_cask_apps:
   - setapp
   - whatsapp
   - cold-turkey-blocker
+  - logitech-options
 
 mas_installed_apps:
   - { id: 904280696, name: "Things 3" }
