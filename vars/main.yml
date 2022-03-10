@@ -17,6 +17,7 @@ homebrew_cask_apps:
   - whatsapp
   - cold-turkey-blocker
   - logitech-options
+  - alfred
 
 mas_installed_apps:
   - { id: 904280696, name: "Things 3" }
