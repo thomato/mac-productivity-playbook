@@ -7,8 +7,10 @@ When your run this playbook on a new Mac, make sure to install the prerequisites
 ```
 
 *Install Ansible*
+Also, Git may need to be installed to download the playbook.
 ```
 brew install ansible
+brew install git
 ```
 
 *Install Ansible requirements*
