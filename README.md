@@ -16,6 +16,9 @@ brew install ansible
 ansible-galaxy install -r requirements.yml
 ```
 
+*Fill `vars/local.yml`*
+Copy `vars/local.yml.dist` to `vars/local.yml` and change the variables to your choosing.
+
 ## Run run run
 ```
 ansible-playbook main.yml --ask-become-pass
