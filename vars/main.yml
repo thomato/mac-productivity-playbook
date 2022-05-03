@@ -15,8 +15,6 @@ homebrew_cask_apps:
   - anki
   - setapp
   - whatsapp
-  - cold-turkey-blocker
-  - logitech-options
   - alfred
 
 mas_installed_apps:
