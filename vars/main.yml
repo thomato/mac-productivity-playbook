@@ -39,3 +39,26 @@ dockitems_remove:
   - Photos
   - Maps
   - Messages
+
+dockitems_persist:
+  - name: Launchpad
+    path: "/System/Applications/Launchpad.app/"
+    pos: 1
+  - name: Fantastical
+    path: "/Applications/Fantastical.app/"
+    pos: 2
+  - name: Things3
+    path: "/Applications/Things3.app/"
+    pos: 3
+  - name: Firefox Developer Edition
+    path: "/Applications/Firefox Developer Edition.app/"
+    pos: 4
+  - name: Safari
+    path: "/Applications/Safari.app/"
+    pos: 5
+  - name: Mail
+    path: "/System/Applications/Mail.app/"
+    pos: 6
+  - name: 1Password 7
+    path: "/Applications/1Password 7.app/"
+    pos: 7
