@@ -17,10 +17,10 @@ homebrew_cask_apps:
   - whatsapp
   - alfred
   - hpedrorodrigues/tools/dockutil
+  - 1password
 
 mas_installed_apps:
   - { id: 904280696, name: "Things 3" }
-  - { id: 1333542190, name: "1Password 7 - Password Manager" }
   - { id: 975937182, name: "Fantastical - Calendar" }
   - { id: 441258766, name: "Magnet" }
   - { id: 1487937127, name: "Craft - Docs and Notes Editor" }
@@ -59,6 +59,6 @@ dockitems_persist:
   - name: Mail
     path: "/System/Applications/Mail.app/"
     pos: 6
-  - name: 1Password 7
-    path: "/Applications/1Password 7.app/"
+  - name: 1Password
+    path: "/Applications/1Password.app/"
     pos: 7
