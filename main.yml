@@ -16,3 +16,10 @@
     - geerlingguy.mac.mas
     - geerlingguy.mac.dock
 
+  tasks:
+    - name: "Remove desktop files/items"
+      command: "defaults write com.apple.finder CreateDesktop false"
+
+    - name: "Restart finder"
+      command: "killall Finder"
+
