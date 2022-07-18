@@ -26,6 +26,7 @@ mas_installed_apps:
   - { id: 441258766, name: "Magnet" }
   - { id: 1569813296, name: "1Password for Safari" }
   - { id: 1474335294, name: "GoodLinks" }
+  - { id: 1484348796, name: "Endel: Focus, Sleep, Relax" }
 
 dockitems_remove:
   - TV
@@ -41,6 +42,7 @@ dockitems_remove:
   - Photos
   - Maps
   - Messages
+  - Craft
 
 dockitems_persist:
   - name: Launchpad
@@ -52,24 +54,25 @@ dockitems_persist:
   - name: Fantastical
     path: "/Applications/Fantastical.app/"
     pos: 3
-  - name: Streaks
-    path: "/Applications/Streaks.app/"
-    pos: 4
   - name: Evernote
     path: "/Applications/Evernote.app/"
-    pos: 5
+    pos: 4
   - name: Things3
     path: "/Applications/Things3.app/"
-    pos: 6
+    pos: 5
   - name: Firefox Developer Edition
     path: "/Applications/Firefox Developer Edition.app/"
-    pos: 7
+    pos: 6
   - name: Safari
     path: "/Applications/Safari.app/"
-    pos: 8
+    pos: 7
   - name: Mail
     path: "/System/Applications/Mail.app/"
-    pos: 9
+    pos: 8
   - name: 1Password
     path: "/Applications/1Password.app/"
+    pos: 9
+  - name: Endel
+    path: "/Applications/Endel.app/"
     pos: 10
+
