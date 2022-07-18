@@ -25,3 +25,6 @@ Copy `vars/local.yml.dist` to `vars/local.yml` and change the variables to your 
 ```
 ansible-playbook main.yml --ask-become-pass
 ```
+
+# Features
+- Hides desktop items
