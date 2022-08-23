@@ -19,6 +19,8 @@ homebrew_cask_apps:
   - hpedrorodrigues/tools/dockutil
   - 1password
   - evernote
+  - signal
+  - notion
 
 mas_installed_apps:
   - { id: 904280696, name: "Things 3" }
