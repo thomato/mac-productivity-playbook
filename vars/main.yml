@@ -29,6 +29,7 @@ mas_installed_apps:
   - { id: 1569813296, name: "1Password for Safari" }
   - { id: 1474335294, name: "GoodLinks" }
   - { id: 1484348796, name: "Endel: Focus, Sleep, Relax" }
+  - { id: 1055511498, name: "Day One" }
 
 dockitems_remove:
   - TV
@@ -71,10 +72,13 @@ dockitems_persist:
   - name: Mail
     path: "/System/Applications/Mail.app/"
     pos: 8
+  - name: Day One
+    path: "/Applications/Day One.app/"
+    pos: 9
   - name: 1Password
     path: "/Applications/1Password.app/"
-    pos: 9
+    pos: 10
   - name: Endel
     path: "/Applications/Endel.app/"
-    pos: 10
+    pos: 11
 
