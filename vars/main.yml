@@ -10,17 +10,21 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - firefox-developer-edition
   - intellij-idea
   - anki
   - setapp
   - whatsapp
-  - alfred
   - hpedrorodrigues/tools/dockutil
   - 1password
   - evernote
   - signal
   - notion
+
+homebrew_cask_uninstalled_apps:
+  - alfred
+  - firefox
+  - firefox-developer-edition
+  - google-chrome
 
 mas_installed_apps:
   - { id: 904280696, name: "Things 3" }
