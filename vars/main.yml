@@ -26,6 +26,8 @@ homebrew_cask_uninstalled_apps:
   - firefox-developer-edition
   - google-chrome
 
+homebrew_cask_accept_external_apps: true
+
 mas_installed_apps:
   - { id: 904280696, name: "Things 3" }
   - { id: 975937182, name: "Fantastical - Calendar" }
