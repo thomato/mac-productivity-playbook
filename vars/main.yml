@@ -54,6 +54,9 @@ dockitems_remove:
   - Maps
   - Messages
   - Craft
+  - Evernote
+  - 'Firefox Developer Edition'
+  - Safari
 
 dockitems_persist:
   - name: Launchpad
@@ -65,24 +68,21 @@ dockitems_persist:
   - name: Fantastical
     path: "/Applications/Fantastical.app/"
     pos: 3
-  - name: Evernote
-    path: "/Applications/Evernote.app/"
+  - name: Arc
+    path: "/Applications/Arc.app/"
     pos: 4
   - name: Things3
     path: "/Applications/Things3.app/"
     pos: 5
-  - name: Firefox Developer Edition
-    path: "/Applications/Firefox Developer Edition.app/"
-    pos: 6
-  - name: Safari
-    path: "/Applications/Safari.app/"
-    pos: 7
   - name: Mail
     path: "/System/Applications/Mail.app/"
-    pos: 8
+    pos: 6
   - name: 1Password
     path: "/Applications/1Password.app/"
-    pos: 9
+    pos: 7
+  - name: Notion
+    path: "/Applications/Notion.app/"
+    pos: 8
   - name: Endel
     path: "/Applications/Endel.app/"
-    pos: 10
+    pos: 9
